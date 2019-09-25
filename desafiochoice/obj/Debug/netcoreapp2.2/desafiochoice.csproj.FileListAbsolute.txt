@@ -1,0 +1,14 @@
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\bin\Debug\netcoreapp2.2\desafiochoice.deps.json
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\bin\Debug\netcoreapp2.2\desafiochoice.runtimeconfig.json
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\bin\Debug\netcoreapp2.2\desafiochoice.runtimeconfig.dev.json
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\bin\Debug\netcoreapp2.2\desafiochoice.dll
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\bin\Debug\netcoreapp2.2\desafiochoice.pdb
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.csprojAssemblyReference.cache
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.csproj.CoreCompileInputs.cache
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.RazorAssemblyInfo.cache
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.RazorAssemblyInfo.cs
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.AssemblyInfoInputs.cache
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.AssemblyInfo.cs
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.RazorTargetAssemblyInfo.cache
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.dll
+Z:\Projects\Desafio-Choice\Desafio-Choice\desafiochoice\obj\Debug\netcoreapp2.2\desafiochoice.pdb

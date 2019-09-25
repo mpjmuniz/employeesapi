@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2d959da-c9b0-48ea-a432-1acafa3418a3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Controllers/JobsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Controllers/DepartmentsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Data/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Model/Employee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Model/Department.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Model/Job.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="dummy://restClient/response1.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Controllers/EmployeesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/desafiochoice/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Temp/Program.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Controllers/Departments.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Data/DbContext.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Model/Employee.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Model/Job.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Model/Department.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Controllers/JobsController.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Controllers/DepartmentsController.cs" />
+        <option value="$PROJECT_DIR$/desafiochoice/Controllers/EmployeesController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RIgRNtkVqMqCWWlfQNazGyzonW" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Temp/bin/Debug/netcoreapp2.2/Temp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Temp/bin/Debug/netcoreapp2.2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Temp/Temp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2d959da-c9b0-48ea-a432-1acafa3418a3" name="Default Changelist" comment="" />
+      <created>1569360016636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569360016636</updated>
+      <workItem from="1569360021517" duration="4224000" />
+      <workItem from="1569368323502" duration="5302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="88" key="#Default" />
+    <state x="453" y="88" key="#Default/1920.1080" />
+    <state x="361" y="70" key="#Plugins" />
+    <state x="361" y="70" key="#Plugins/1920.1080" />
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080" />
+    <state x="551" y="112" key="FileChooserDialogImpl" />
+    <state x="551" y="112" key="FileChooserDialogImpl/1920.1080" />
+    <state width="1025" height="210" key="GridCell.Tab.0.bottom" />
+    <state width="1025" height="210" key="GridCell.Tab.0.bottom/1920.1080" />
+    <state width="1025" height="210" key="GridCell.Tab.0.center" />
+    <state width="1025" height="210" key="GridCell.Tab.0.center/1920.1080" />
+    <state width="1025" height="210" key="GridCell.Tab.0.left" />
+    <state width="1025" height="210" key="GridCell.Tab.0.left/1920.1080" />
+    <state width="1025" height="210" key="GridCell.Tab.0.right" />
+    <state width="1025" height="210" key="GridCell.Tab.0.right/1920.1080" />
+    <state width="189" height="375" key="HiddenNamespacesPopup" />
+    <state width="189" height="375" key="HiddenNamespacesPopup/1920.1080" />
+    <state x="363" y="89" key="Rider.ProjectTemplateDialog.Size" />
+    <state x="363" y="89" key="Rider.ProjectTemplateDialog.Size/1920.1080" />
+    <state x="261" y="54" key="SettingsEditor" />
+    <state x="261" y="54" key="SettingsEditor/1920.1080" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Marcelo Muniz\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Marcelo Muniz\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Desafio-Choice.1064899473.00" t="ExcludeRecursive" />
+    <e p="Z:\Projects\Desafio-Choice\Desafio-Choice" t="IncludeFlat">
+      <e p="Desafio-Choice.sln" t="IncludeFlat" />
+      <e p="desafiochoice" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="DepartmentsController.cs" t="Include" />
+          <e p="EmployeesController.cs" t="Include" />
+          <e p="JobsController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="DbContext.cs" t="Include" />
+        </e>
+        <e p="desafiochoice.csproj" t="IncludeRecursive" />
+        <e p="Model" t="Include">
+          <e p="Department.cs" t="Include" />
+          <e p="Employee.cs" t="Include" />
+          <e p="Job.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="desafiochoice.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
